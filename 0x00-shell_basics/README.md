@@ -9,7 +9,8 @@
 8-firstdelete shows how to delete the file betty
 9-firstdirdeletioy show how to delete my first directory in the /tmp directory
 10-back shows how to change the working directory to the previous one
-11-lists show how to display hidden files of current directory and parent of the working directory
+11-lists shows how to display hidden files of current directory and parent of the working directory
 12-file type shows the type of a file is iamfile
-13-symbolic link show how to link files in a working directory
-14-copy html show how to copy HTML file that aint present in the parent directory
+13-symbolic link shows how to link files in a working directory
+14-copy html shows how to copy HTML file that aint present in the parent directory
+100-lets move shows how to move all files beginning with uppercase in the directory
