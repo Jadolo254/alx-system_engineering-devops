@@ -9,3 +9,5 @@
 8-firstdelete shows how to delete the file betty
 9-firstdirdeletioy show how to delete my first directory in the /tmp directory
 10-back show changes the working directory to the previous one
+11-lists show how to display hidden files of current directory and parent of the working directory
+12-file type shows the type of a file is iamfile
